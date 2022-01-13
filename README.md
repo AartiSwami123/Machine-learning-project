@@ -6,4 +6,8 @@
  - software requirements: jupyter notebook, anaconda, pyhton 3 or newer version
  -  you have must the algorithemic strategy.
 
-credit_  
+credit_card_fraud_detection
+- in this you need the same things like above project
+-  download the data file CREDIT CARD form kaggle.com website.
+-  software requirements: jupyter notebook, anaconda, pyhton 3 or newer version
+-  you have must the algorithemic strategy.
