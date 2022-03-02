@@ -12,4 +12,4 @@ credit_card_fraud_detection
 -  download the data file CREDITCARD.CSV form kaggle.com website.
 -  software requirements: jupyter notebook, anaconda, pyhton 3 or newer version
 -  you have must the algorithemic strategy.
--  link for dataset:https://www.kaggle.com/mlg-ulb/creditcardfraud
+-  link for dataset:https://www.kaggle.com/mlg-ulb/creditcardfraud 
