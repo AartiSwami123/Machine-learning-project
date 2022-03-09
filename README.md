@@ -21,3 +21,6 @@
 # decision tree algorithm
 - in this project we are going to implement decision tree algorithms on iris dataset.
 - get the full explanation here: https://youtu.be/U1ZC9_j6g8c
+
+#image to sketch converter
+- get full exaplanation here: 
